@@ -1,0 +1,28 @@
+{
+    "post": [
+        {
+            "title": "Post1",
+            "body": "Some random posts",
+            "userId": 33,
+            "id": 1
+        },
+        {
+            "title": "Post2",
+            "body": "Some random posts",
+            "userId": 33,
+            "id": 2
+        },
+        {
+            "title": "Post3",
+            "body": "Some random posts",
+            "userId": 33,
+            "id": 3
+        },
+        {
+            "title": "Post4",
+            "body": "Some random posts",
+            "userId": 33,
+            "id": 4
+        }
+    ]
+}
